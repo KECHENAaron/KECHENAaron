@@ -21,6 +21,8 @@
 
 👉 **[查看技能与运行样例](https://github.com/KECHENAaron/aipanda-amazon-ai-skills#十分钟开始)**
 
+🌐 **[打开 AIPANDA 项目主页与报告演示](https://kechenaaron.github.io/aipanda-amazon-ai-skills/)**
+
 ## 我会持续分享
 
 - 把分析做成工具：搜索词、关键词、产品与经营数据。
