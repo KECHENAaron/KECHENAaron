@@ -11,7 +11,7 @@
 
 ### [AIPANDA Amazon AI Skills](https://github.com/KECHENAaron/aipanda-amazon-ai-skills)
 
-面向亚马逊卖家的 AI 技能库。当前 v0.4.0：4 个 MIT 技能 + 3 个保留 AGPL-3.0 的社区衍生包，配套 6 个完全合成案例主题。基础入口：
+面向亚马逊卖家的 AI 技能库。当前 v0.5.0：4 个 MIT 技能 + 3 个保留 AGPL-3.0 的社区衍生包，配套 7 个完全合成案例主题。基础入口：
 
 | 任务 | 能得到什么 | 当前形态 |
 |---|---|---|
@@ -21,9 +21,9 @@
 
 新增的社区包可离线完成搜索词逐日 / 汇总诊断、Listing 结构化证据审计、图片简报与技术筛查。保留 IvyeaOps 作者署名、固定版本、源码与改动说明，详见 [社区目录](https://github.com/KECHENAaron/aipanda-amazon-ai-skills/tree/main/community/ivyeaops)。
 
-📖 **[读 6 个完全合成案例主题](https://kechenaaron.github.io/aipanda-amazon-ai-skills/cases/)**：新增广告复盘的 6 个常量练习：周期比较、架构、搜索词与优化候选，另有汇总粒度、参数冲突、引用与文意、图片简报验收。只分享通用方法与技能，不含实际商品、店铺、成本费用或真实经营报表。
+📖 **[读 7 个完全合成案例主题](https://kechenaaron.github.io/aipanda-amazon-ai-skills/cases/)**：新增广告复盘的 10 个常量练习：周期比较、架构、搜索词与优化候选，另有汇总粒度、参数冲突、引用与文意、图片简报验收。只分享通用方法与技能，不含实际商品、店铺、成本费用或真实经营报表。
 
-独立 MIT [匿名广告复盘 1.1.0](https://github.com/KECHENAaron/aipanda-amazon-ai-skills/tree/main/skills/aipanda-ads-period-review)：保留周期比较，并新增角色 / 残差、完整词保护、符号聚合与迁移门控。不处理利润核对，不连接业务后台。
+独立 MIT [匿名广告复盘 1.2.0](https://github.com/KECHENAaron/aipanda-amazon-ai-skills/tree/main/skills/aipanda-ads-period-review)：保留周期、架构与搜索词诊断，新增竞价 / 预算 / 广告位控制情景，全部为待复核假设。不处理利润核对，不连接业务后台。
 
 👉 **[查看技能与运行样例](https://github.com/KECHENAaron/aipanda-amazon-ai-skills#十分钟开始)**
 
