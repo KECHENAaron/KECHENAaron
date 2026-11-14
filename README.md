@@ -11,13 +11,17 @@
 
 ### [AIPANDA Amazon AI Skills](https://github.com/KECHENAaron/aipanda-amazon-ai-skills)
 
-面向亚马逊卖家的 AI 技能库。首版围绕三个具体任务展开：
+面向亚马逊卖家的 AI 技能库。当前 v0.2.0：3 个 MIT 基础技能 + 3 个保留 AGPL-3.0 的社区衍生包，配套 4 个实务问题重构案例。基础入口：
 
 | 任务 | 能得到什么 | 当前形态 |
 |---|---|---|
 | 搜索词报告复核 | 缺数检查、指标计算、候选分类与来源行号 | 可运行的离线 Python 工具 |
 | Listing 证据复核 | 哪些卖点有依据、哪些冲突、怎样改写 | 指令型技能＋合成练习 |
 | 竞品证据对标 | 同口径比较、分析假设与待验证机会 | 指令型技能＋合成练习 |
+
+新增的社区包可离线完成搜索词逐日 / 汇总诊断、Listing 结构化证据审计、图片简报与技术筛查。保留 IvyeaOps 作者署名、固定版本、源码与改动说明，详见 [社区目录](https://github.com/KECHENAaron/aipanda-amazon-ai-skills/tree/main/community/ivyeaops)。
+
+📖 **[读 4 个可复现实务案例](https://kechenaaron.github.io/aipanda-amazon-ai-skills/cases/)**：汇总粒度、参数冲突、引用与文意、图片简报验收。公开输入均重新构造，不含真实经营报表。
 
 👉 **[查看技能与运行样例](https://github.com/KECHENAaron/aipanda-amazon-ai-skills#十分钟开始)**
 
