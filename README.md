@@ -2,7 +2,7 @@
   <img src="assets/avatar.jpg" width="230" alt="AIPANDA 熊猫头像">
   <h1>🐼 AIPANDA · 跨境有AI</h1>
   <p><strong>用 AI 做亚马逊运营，分享可以复用的技能、工具与实战方法。</strong></p>
-  <p>选品研究 · 广告复核 · Listing · 利润分析</p>
+  <p>广告复盘 · Listing 证据 · 通用 AI 技能</p>
 </div>
 
 你好，我是 AIPANDA。我把运营中反复遇到的问题拆成输入、证据、判断和交付，让 AI 的分析更容易复核，也更方便复用。
@@ -11,7 +11,7 @@
 
 ### [AIPANDA Amazon AI Skills](https://github.com/KECHENAaron/aipanda-amazon-ai-skills)
 
-面向亚马逊卖家的 AI 技能库。当前 v0.2.0：3 个 MIT 基础技能 + 3 个保留 AGPL-3.0 的社区衍生包，配套 4 个实务问题重构案例。基础入口：
+面向亚马逊卖家的 AI 技能库。当前 v0.3.0：4 个 MIT 技能 + 3 个保留 AGPL-3.0 的社区衍生包，配套 5 个完全合成案例主题。基础入口：
 
 | 任务 | 能得到什么 | 当前形态 |
 |---|---|---|
@@ -21,7 +21,9 @@
 
 新增的社区包可离线完成搜索词逐日 / 汇总诊断、Listing 结构化证据审计、图片简报与技术筛查。保留 IvyeaOps 作者署名、固定版本、源码与改动说明，详见 [社区目录](https://github.com/KECHENAaron/aipanda-amazon-ai-skills/tree/main/community/ivyeaops)。
 
-📖 **[读 4 个可复现实务案例](https://kechenaaron.github.io/aipanda-amazon-ai-skills/cases/)**：汇总粒度、参数冲突、引用与文意、图片简报验收。公开输入均重新构造，不含真实经营报表。
+📖 **[读 5 个完全合成案例主题](https://kechenaaron.github.io/aipanda-amazon-ai-skills/cases/)**：新增匿名广告周期复盘的 3 个常量练习，另有汇总粒度、参数冲突、引用与文意、图片简报验收。只分享通用方法与技能，不含实际商品、店铺、成本费用或真实经营报表。
+
+新增独立 MIT [匿名广告周期复盘](https://github.com/KECHENAaron/aipanda-amazon-ai-skills/tree/main/skills/aipanda-ads-period-review)：相同匿名单元，区分总量与日均、归因成熟和结构变化。不处理利润核对，不连接业务后台。
 
 👉 **[查看技能与运行样例](https://github.com/KECHENAaron/aipanda-amazon-ai-skills#十分钟开始)**
 
@@ -29,11 +31,11 @@
 
 ## 我会持续分享
 
-- 把分析做成工具：搜索词、关键词、产品与经营数据。
+- 把分析做成工具：匿名指标、口径检查与合成练习。
 - 把判断写清楚：数据从哪里来，哪些是事实，哪些仍需验证。
 - 把过程留下来：可复现的案例、方法与踩坑记录。
 
-利润核算、选品研究和 AI 工作流工程将逐步整理，发布进度见主项目的 [路线图](https://github.com/KECHENAaron/aipanda-amazon-ai-skills/blob/main/docs/roadmap.md)。
+匿名广告复盘、输入契约与 AI 工作流方法将逐步完善，发布进度见主项目的 [路线图](https://github.com/KECHENAaron/aipanda-amazon-ai-skills/blob/main/docs/roadmap.md)。
 
 ## 关于这里
 
