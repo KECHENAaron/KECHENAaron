@@ -11,26 +11,28 @@
 
 ### [AIPANDA Amazon AI Skills](https://github.com/KECHENAaron/aipanda-amazon-ai-skills)
 
-第一次使用可从 [技能选择与合成演示](https://kechenaaron.github.io/aipanda-amazon-ai-skills/start.html) 开始：按任务、依赖与许可选择 7 个技能，统一命令运行 11 个原创合成练习。
+第一次使用可从 [技能选择与合成演示](https://kechenaaron.github.io/aipanda-amazon-ai-skills/start.html) 开始：按任务、依赖与许可选择 7 个技能，统一命令运行 17 个原创合成练习。
 
-面向亚马逊卖家的 AI 技能库。当前 v0.6.0：4 个 MIT 技能 + 3 个保留 AGPL-3.0 的社区衍生包，配套 7 个完全合成案例主题。基础入口：
+面向亚马逊卖家的 AI 技能库。当前 v0.7.0：4 个 MIT 技能 + 3 个保留 AGPL-3.0 的社区衍生包，配套 9 个完全合成案例主题。基础入口：
 
 | 任务 | 能得到什么 | 当前形态 |
 |---|---|---|
 | 搜索词报告复核 | 缺数检查、指标计算、候选分类与来源行号 | 可运行的离线 Python 工具 |
 | 广告复盘与调整假设 | 周期、架构与控制情景的理由和阻断 | 标准库工具＋10 个合成练习 |
-| Listing 证据复核 | 哪些卖点有依据、哪些冲突、怎样改写 | 指令型技能＋合成练习 |
-| 竞品证据对标 | 同口径比较、分析假设与待验证机会 | 指令型技能＋合成练习 |
+| Listing 证据复核 | 声明与证据的绑定、冲突、缺证 | 标准库脚本＋3 个合成练习 |
+| 竞品证据对标 | 逐维度可比性、精确包装归一与缺口 | 标准库脚本＋3 个合成练习 |
 
 新增的社区包可离线完成搜索词逐日 / 汇总诊断、Listing 结构化证据审计、图片简报与技术筛查。保留 IvyeaOps 作者署名、固定版本、源码与改动说明，详见 [社区目录](https://github.com/KECHENAaron/aipanda-amazon-ai-skills/tree/main/community/ivyeaops)。
 
-📖 **[读 7 个完全合成案例主题](https://kechenaaron.github.io/aipanda-amazon-ai-skills/cases/)**：新增广告复盘的 10 个常量练习：周期比较、架构、搜索词与优化候选，另有汇总粒度、参数冲突、引用与文意、图片简报验收。只分享通用方法与技能，不含实际商品、店铺、成本费用或真实经营报表。
+📖 **[读 9 个完全合成案例主题](https://kechenaaron.github.io/aipanda-amazon-ai-skills/cases/)**：新增广告复盘的 10 个常量练习：周期比较、架构、搜索词与优化候选，另有汇总粒度、参数冲突、引用与文意、图片简报验收。只分享通用方法与技能，不含实际商品、店铺、成本费用或真实经营报表。
 
 独立 MIT [匿名广告复盘 1.2.0](https://github.com/KECHENAaron/aipanda-amazon-ai-skills/tree/main/skills/aipanda-ads-period-review)：保留周期、架构与搜索词诊断，新增竞价 / 预算 / 广告位控制情景，全部为待复核假设。不处理利润核对，不连接业务后台。
 
 👉 **[查看技能与运行样例](https://github.com/KECHENAaron/aipanda-amazon-ai-skills#十分钟开始)**
 
 🌐 **[打开 AIPANDA 项目主页与报告演示](https://kechenaaron.github.io/aipanda-amazon-ai-skills/)**
+
+新上线：[Listing 证据复核](https://kechenaaron.github.io/aipanda-amazon-ai-skills/cases/listing-evidence.html) 与 [竞品可比性对标](https://kechenaaron.github.io/aipanda-amazon-ai-skills/cases/competitor-evidence.html)，均为独立 MIT 标准库包 1.0.0，输入和案例完全合成。
 
 ## 我会持续分享
 
